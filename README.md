@@ -1,5 +1,22 @@
-# Vue 3 + Vite
+# Chrome Extension Project Name
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project is a Chrome extension built with Vue.js to fetch video transcripts and provide AI-powered interactions.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+### Load the Extension into Chrome
+
+1. Open **Google Chrome** and go to `chrome://extensions/`.
+2. Enable **Developer mode** by toggling the switch in the top right.
+3. Click on **"Load unpacked"**.
+4. Select the root directory of this project.
+
+## Usage
+
+1. Navigate to a YouTube video page.
+2. Click on the extension icon to open the popup.
+3. Use the chat interface to interact with the AI and fetch video transcripts.
+
+## Development
+
+To run the project in development mode with hot reloading:
+```bash
+npm run dev
