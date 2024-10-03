@@ -20,5 +20,8 @@ This project is a Chrome extension built with Vue.js to fetch video transcripts 
 To run the project in development mode with hot reloading:
 ```bash
 npm run dev
+<<<<<<< HEAD
 
 ![Alt text](intro.png)
+=======
+>>>>>>> 3f9a05c78ae2269861e83493ddf6758ed4039764
